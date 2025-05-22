@@ -1,6 +1,5 @@
 # simple-mirador
 
-Hello.
 This is project is a simple copy of the [simple-site](https://github.com/jpadfield/simple-site) repository. It has been set up to provide a dedicated example of using the system to view [IIIF](https://iiif.io) manifests within the IIIF Image viewer [Mirador](https://projectmirador.org/).
 
 ### To see the example web pages got to: [simple-mirador](https://jpadfield.github.io/simple-mirador/).
